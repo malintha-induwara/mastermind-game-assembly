@@ -12,7 +12,7 @@ Follow these simple steps to run the Mastermind game:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/malintha-induwara/code-breaker-game-assembly.git
+   https://github.com/malintha-induwara/mastermind-game-assembly.git
    cd code-breaker-game-assembly
 
 2. **Visit ARMlite Simulator:**<br>
