@@ -2,7 +2,7 @@
 
 ### So how to run this code?
 
-Well this is not a true native asm code for ARM processors ( writing true native code is near impossible) but its very similer.
+Well this is not a true native asmmbly code for ARM processors ( writing true native code is near impossible 😅, instad  it replicate it) but its very similer.
 
 ![arm](https://github.com/malintha-induwara/code-breaker-game-assembly/assets/60071404/5c03b85b-53aa-406b-b836-b17e9143b819)
 
