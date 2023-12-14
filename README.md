@@ -7,9 +7,9 @@ Well this is not a true native asm code for ARM processors ( writing true native
 ![arm](https://github.com/malintha-induwara/code-breaker-game-assembly/assets/60071404/5c03b85b-53aa-406b-b836-b17e9143b819)
 
 
-* Colne the repo.
+* Clone the repo.
 * Go to https://peterhigginson.co.uk/ARMlite/ site.
 * Upload the code.
-* Hit the Run.
+* Run.
 
 Thats it.Enjoy
