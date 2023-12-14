@@ -1,6 +1,6 @@
 # Code Breaker board game implement using Assembly Language.
 
-### So how to use run this code?
+### So how to run this code?
 
 Well this is not a true native asm code for ARM processors ( writing true native code is near impossible) but its very similer.
 
